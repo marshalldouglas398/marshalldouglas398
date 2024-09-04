@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @marshalldouglas398
+- 👀 I’m interested in machine learning and getting a job.
+- 🌱 I’m currently learning java and the python turtle library
+- 💞️ I’m looking to collaborate on any python projects really.
+- 📫 How to reach me: marshalldouglas398@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I play sax.

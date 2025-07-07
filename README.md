@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marshalldouglas398
 - 👀 I’m interested in machine learning and getting a job.
-- 🌱 I’m currently learning C++ and game development.
+- 🌱 I’m currently learning REST APIs.
 - 💞️ I’m looking to collaborate on any python projects really.
 - 📫 How to reach me: marshalldouglas398@gmail.com
 - 😄 Pronouns: He/him
